@@ -1,4 +1,4 @@
-#**Hello! My name is Jeffrey Abbott** *(He/Him)* @MrKrinkle8#
+**Hello! My name is Jeffrey Abbott** *(He/Him)* @MrKrinkle8#
 Passionate (and nerdy) Game Design student at Purdue University Global
   - I’m interested in **game programming and design**
   - I’m currently learning **Unity3D/2D and 3D mathematics**
