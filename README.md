@@ -7,7 +7,6 @@ Passionate (and nerdy) Game Design student at Purdue University Global
       https://www.linkedin.com/in/jeffreynabbott/ <br/>
       JeffreyAbbott.V@Gmail.com  <br/>
   - Fun fact: The first video game I remember playing was Castlevania on the NES with my dad :)
-  - Projects:
 
 <!---
 MrKrinkle8/MrKrinkle8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
