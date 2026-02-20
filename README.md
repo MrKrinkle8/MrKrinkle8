@@ -1,8 +1,8 @@
 **Hello! My name is Jeffrey Abbott** *(He/Him)* @MrKrinkle8
-Passionate (and nerdy) Game Design student at Purdue University Global
-  - I’m interested in **game programming and design**
-  - I’m currently learning **Unity3D/2D and 3D mathematics**
+Passionate (and nerdy) game engineer, human resource professional, and data analyst!
+
   - I’m looking to collaborate on Game jam projects and interships at small to medium studios as a designer/programmer
+  - Constantly pushing myself to learn something new, and open to any opportunity. 
   - How to reach me: <br/>
       https://www.linkedin.com/in/jeffreynabbott/ <br/>
       JeffreyAbbott.V@Gmail.com  <br/>
